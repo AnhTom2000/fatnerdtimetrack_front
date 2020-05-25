@@ -1,24 +1,25 @@
 # xiangmu_
 
-## Project setup
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 安装完依赖后运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Run your unit tests
+### 测试
 ```
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这是肥宅清单的前端项目，后端地址：
+
+https://github.com/AnhTom2000/fatNerdTimeTrack
